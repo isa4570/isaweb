@@ -1,13 +1,13 @@
-h1 { color: #FFFFFF; text-align: center; font-size: 32px; }
+h1 { color: #ED4A00; text-align: center; font-size: 32px; }
 
-h2 { color: #00e5ff; border-bottom: 1px solid #00ff00; }
+h2 { color: #ED4A00; border-bottom: 1px solid #00ff00; }
 
-a { color: #00e5ff; text-decoration: none; }
+a { color: #ED4A00; text-decoration: none; }
 
 body { background-color: #E63B00; color: #000000; font-family: monospace; }
 
 a { color: #00e5ff; text-decoration: none; }
 
-a:hover { color: #00ff00; text-decoration: underline; }
+a:hover { color: #ED4A00; text-decoration: underline; }
 
 img { max-width: 100%; height: auto; border: 4px solid #00ff00; border-radius: 13px; display: block; margin: 20px auto; }
