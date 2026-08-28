@@ -5,3 +5,5 @@ h2 { color: #00e5ff; border-bottom: 1px solid #00ff00; }
 a { color: #00e5ff; text-decoration: none; }
 
 body { background-color: #000000; color: #ffffff; font-family: monospace; }
+
+.arias { color: #00e5ff; text-transform: uppercase; }
