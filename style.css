@@ -1,6 +1,6 @@
 h1 { color: #ED4A00; text-align: center; font-size: 32px; }
 
-h2 { color: #ED4A00; border-bottom: 1px solid #00ff00; }
+h2 { color: #ED4A00; border-bottom: 1px solid #CC3300; }
 
 a { color: #ED4A00; text-decoration: none; }
 
@@ -10,4 +10,4 @@ a { color: #00e5ff; text-decoration: none; }
 
 a:hover { color: #ED4A00; text-decoration: underline; }
 
-img { max-width: 100%; height: auto; border: 4px solid #00ff00; border-radius: 13px; display: block; margin: 20px auto; }
+img { max-width: 100%; height: auto; border: 4px solid #CC3300; border-radius: 13px; display: block; margin: 20px auto; }
