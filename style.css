@@ -10,4 +10,4 @@ a { color: #00e5ff; text-decoration: none; }
 
 a:hover { color: #00ff00; text-decoration: underline; }
 
-img { max-width: 100%; height: auto; border: 2px solid #00ff00; border-radius: 8px; display: block; margin: 20px auto; }
+img { max-width: 100%; height: auto; border: 4px solid #00ff00; border-radius: 13px; display: block; margin: 20px auto; }
